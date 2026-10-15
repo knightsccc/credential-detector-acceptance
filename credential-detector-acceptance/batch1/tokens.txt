@@ -1,0 +1,2 @@
+# acceptance batch1 - synthetic tokens (never registered)
+github token: ghp_wV9ZKHdZLGt7gPptVrq0HkzRrJKbBLzKBFci

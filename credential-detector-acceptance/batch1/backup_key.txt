@@ -1,0 +1,8 @@
+# acceptance batch1 - synthetic key material (never registered)
+-----BEGIN RSA PRIVATE KEY-----
+Pq2vm1CAhcW3JgDJnsA6++tdQmKOzsVbp7VxrTR69O4875oxPfpbRiWorrXBuCjq
+MQWfu1M3z5Je/BVPejP1fb+4xCJYj8DmkRbaRoJMjl8sbl8E8EBc60Oe8wNH7Yfp
+9kHHEOhEZbIG64xtG3avyQO5Co76I1wJyk5z6SlVKXNfVEoNO+5gEDgQkVZkQLrt
+kUUgkhmLTQQkcGpGfmTAVvsvk1bArOgqTg/kurWZdCjspTxt/mT4YjwoSSN8gqls
+49kF4O1Ji9PJumQn7f+6JimOj205YPnPOFwCbCLNGyWUNLwUU/h+U7TKBh8h+t18
+-----END RSA PRIVATE KEY-----

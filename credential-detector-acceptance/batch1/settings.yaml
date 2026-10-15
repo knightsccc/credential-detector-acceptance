@@ -1,0 +1,9 @@
+# acceptance batch1 - synthetic app settings (never registered)
+database:
+  host: db-acc.internal.example
+  username: svc_admin
+  password: "lQgqiOtg77RpugPh"
+  url: mysql://svc_t9ofWU:7iSpFPcVIoioV6FaQdvS@db-ttrosn.internal.example:3306/billing
+oauth:
+  client_id: acc-demo-client
+  client_secret: e5c975f3-ece7-4ec9-bc9f-71c9225ed13d
